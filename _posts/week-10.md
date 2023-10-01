@@ -1,0 +1,2 @@
+After a week of hard work, I finally finished the paper. I also had a lot of ideas on how to better the Winobias dataset and spoke to the professor about it. He said that I could continue working on it under his guidance in the same lab. I was beyond grateful for the opportunioty. The idea that I had was to elongate the prompts so that there would be a greater distance between the pronoun and the subject. This would really test the co-reference capabilities of the model. 
+
