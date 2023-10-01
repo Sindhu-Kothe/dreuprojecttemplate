@@ -1,0 +1,3 @@
+This week, I finished the scores to calculate the scores of all the output tokens. I am almost done with the conversion of of the singular prompts to plural prompts. I realized that the spacy library has a function that can be used to stem a word and this could be used to convert a supporting word from plural to singular. I would probably need to go through all of the sentences once again once they have beeen converted but the code kmakes my job easier. 
+
+I also finished the code to calculate the scores for the tokens. This explains a lot of the sudden spikes in data. I have also seperated the prompts into male and female so that we can identify the biases. We see that the smaller models are in fact more biased than the larger ones. 
