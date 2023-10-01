@@ -1,0 +1,3 @@
+This week, I finished the conversion of the prompts from singular to plural. This took me a while but it finally worked.  Now that I have all the code and all the peices, I was able to obtain the data and create the graphs for the final report. I started writing the final report this week. I realized that it was a good idea to keep all of your sources in one place before writing the paper as it was a pain to recollect all of the sources and cite them while writing the paper. 
+
+I also notices that tyou have to be selective about the kind of information that you include in your paper as some facts take away from the point that you are trying to make and your paper would look like you are just rambling on and on without a point. 
