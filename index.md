@@ -6,7 +6,7 @@ title: Summer 2020 DREU Project Site
 * TOC
 {:toc}
 
-![picture of me](path/to/image.jpg)
+![picture of me](images/me.JPG)
 
 ## About Me
 
