@@ -11,7 +11,7 @@ title: Summer 2020 DREU Project Site
 ## About Me
 
 Name: Sindhu Kothe
-School: University od San Diego, Jocobs School of Engineering
+School: University of San Diego, Jacobs School of Engineering
 Major: Computer Science
 Grade level: Junior
 Email Address: skothe@ucsd.edu
