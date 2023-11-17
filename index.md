@@ -32,4 +32,4 @@ My project has to do with gender co-reference resolution. I am testing the gende
 
 ## My Blog
 
-[My Blog](https://sindhu-kothe.github.io/dreuprojecttemplate/blog/)https://sindhu-kothe.github.io/dreuprojecttemplate/blog/)
+[My Blog](https://sindhu-kothe.github.io/dreuprojecttemplate/blog/)
