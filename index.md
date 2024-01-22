@@ -6,7 +6,7 @@ title: Summer 2020 DREU Project Site
 * TOC
 {:toc}
 
-![me](images/me.jpg){width=50%}
+![me](https://sindhu-kothe.github.io/dreuprojecttemplate/images/me.jpg)
 
 ## About Me
 
