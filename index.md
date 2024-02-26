@@ -1,10 +1,4 @@
----
-layout: default
-title: Summer 2020 DREU Project Site
----
 
-* TOC
-{:toc}
 
 ![me](https://sindhu-kothe.github.io/dreuprojecttemplate/images/me.jpg)
 
