@@ -2,7 +2,7 @@
 layout: default
 title: Summer 2023 DREU Project Site
 ---
-# Sindhu Kothe
+
 * TOC
 {:toc}
 
